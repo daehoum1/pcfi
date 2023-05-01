@@ -6,6 +6,17 @@ python >= 3.9 <br />
 torch == 1.10.2 <br />
 pyg == 2.0.3
 
+## To run the code
+Semi-supervised node classification
+```
+python run_node.py
+```
+Link prediction
+```
+python run_link.py
+```
+
+
 ## Citation
 ```
 @inproceedings{umconfidence,
