@@ -2,8 +2,8 @@
 This repository is the official PyTorch implementation of "Confidence-Based Feature Imputation for Graphs with Partially Known Features" [[Paper](https://openreview.net/forum?id=YPKBIILy-Kt)]. The codes are built on [Feature Propagation](https://github.com/twitter-research/feature-propagation).
 
 ## Requirements
-python >= 3.9
-torch == 1.10.2
+python >= 3.9 <br />
+torch == 1.10.2 <br />
 pyg == 2.0.3
 
 ## Citation
